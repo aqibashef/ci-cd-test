@@ -32,4 +32,7 @@ jobs:
       - name: Install MochaJS
         run: | 
           npm install --global mocha
-          npm --version mocha
+      
+      # Run test
+      - name: Run Test
+        run: npm run test

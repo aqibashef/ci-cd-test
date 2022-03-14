@@ -1,0 +1,19 @@
+{
+  "name": "ci-cd-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqibashef/ci-cd-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqibashef/ci-cd-test/issues"
+  },
+  "homepage": "https://github.com/aqibashef/ci-cd-test#readme"
+}
