@@ -31,5 +31,5 @@ jobs:
       # Installs MochaJS for testing
       - name: Install MochaJS
         run: | 
-          npm -i --global mocha
+          npm install --global mocha
           npm --version mocha
